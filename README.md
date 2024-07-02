@@ -7,6 +7,6 @@ Dependecies:
 <li>gcc (13.2> recommended)
 </ul>  
 
-<cb>gcc main.c -o todolist</cb>
+<code>gcc main.c -o todolist</code>
 
 That's all.
